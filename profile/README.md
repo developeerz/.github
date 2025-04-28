@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://sonarcloud.io/organizations/developeerz/projects
+Sonar link: https://sonarcloud.io/organizations/developeerz/projects
